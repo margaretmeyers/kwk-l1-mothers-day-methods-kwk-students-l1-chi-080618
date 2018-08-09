@@ -4,8 +4,7 @@
 #   puts "Happy Mother's Day, Mom!"
 # end 
 
-def mothers_day("to")
-  "to" = gets.chomp
+def mothers_day(to)
   puts "Happy Mother's Day,#{to}!"
 end 
 
