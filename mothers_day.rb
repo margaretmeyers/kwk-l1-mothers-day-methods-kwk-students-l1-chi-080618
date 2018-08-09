@@ -5,6 +5,7 @@
 # end 
 
 def mothers_day("to")
+  "to" = gets.chomp
   puts "Happy Mother's Day,#{to}!"
 end 
 
