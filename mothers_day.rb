@@ -4,8 +4,8 @@
 #   puts "Happy Mother's Day, Mom!"
 # end 
 
-def mothers_day("to")
+def mothers_day(to)
   puts "Happy Mother's Day,#{to}!"
 end 
 
-puts mothers_day("Grandma")
+puts mothers_day(Grandma)
